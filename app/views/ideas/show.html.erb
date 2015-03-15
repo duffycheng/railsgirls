@@ -18,3 +18,13 @@
 
 <%= link_to 'Edit', edit_idea_path(@idea), class: 'btn btn-primary' %> |
 <%= link_to 'Back', ideas_path, class: 'btn btn-info' %>
+
+<h3>Comments</h3>
+<% @comments.each do |comment| %>
+  <div>
+    <strong><%= comment.user_name %></strong>
+    <br />
+    <p><%= comment.body %></p>
+  </div>
+<% end %>
+<%= render 'comments/form' %>
