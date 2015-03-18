@@ -1,4 +1,4 @@
 == README
 
-#This is the project I built during {Rails Girls Yilan} [http://railsgirls.com/yilan] and followed {the tutorial by Rails Girls Guides}[http://railsgirls.tw/]. 
+#This is the project I built during {Rails Girls Yilan} [http://railsgirls.com/yilan] and followed {the tutorial by Rails Girls Guides} [http://railsgirls.tw/]. 
 
