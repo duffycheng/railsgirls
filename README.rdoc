@@ -1,4 +1,4 @@
-This is the project I built during the two day event - Rails Girls Yilan (http://railsgirls.com/yilan) and followed the tutorials from Rails Girls Guides (http://railsgirls.tw/).
+This is the project I built during the two day event - Rails Girls Yilan (http://railsgirls.com/yilan) and followed the tutorials from Rails Girls Guides (http://railsgirls.tw/). You may go to https://rocky-sands-6057.herokuapp.com/ and see how it is now.
 
-這是參加 2015年3月14-15日在宜蘭大學舉辦的Rails Girls Yilan (http://railsgirls.com/yilan) 活動時所做的網站。教學資源來自 Rails Girls Guides (http://railsgirls.tw/)。
+這是參加 2015年3月14-15日在宜蘭大學舉辦的Rails Girls Yilan (http://railsgirls.com/yilan) 活動時所做的網站。教學資源來自 Rails Girls Guides (http://railsgirls.tw/)。目前狀態在 Heroku 看到 https://rocky-sands-6057.herokuapp.com/
 
