@@ -1,4 +1,4 @@
-== README
+This is the project I built during the two day event - Rails Girls Yilan (http://railsgirls.com/yilan) and followed the tutorials from Rails Girls Guides (http://railsgirls.tw/).
 
-#This is the project I built during {Rails Girls Yilan} [http://railsgirls.com/yilan] and followed {the tutorial by Rails Girls Guides} [http://railsgirls.tw/]. 
+這是參加 2015年3月14-15日在宜蘭大學舉辦的Rails Girls Yilan (http://railsgirls.com/yilan) 活動時所做的網站。教學資源來自 Rails Girls Guides (http://railsgirls.tw/)。
 
